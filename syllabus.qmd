@@ -172,7 +172,7 @@ Access to library e-sources remotely is possible with a library account. Users w
 
 For the official ITU Fall 2022-2023 academic calendar, please visit:
 
-<https://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2023/lisansustu-akademik-takvimi.php>
+<https://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2023/lisans-akademik-takvimi.php>
 
 Here are some selected important dates in Spring 2023 semester:
 
