@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>MAT555E -</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./lectures/Week_01/index.html" rel="next">
+<link href="./instructor.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">(Untitled)</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+      <a href="./" class="sidebar-logo-link">
+      <img src="./images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main tools-wide">
+    <a href="https://github.com/MAT555E-Spring23" title="" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <a href="https://ninova.itu.edu.tr/tr/" title="" class="sidebar-tool px-1"><i class="bi bi-code-square"></i></a>
+  <a href="" class="quarto-reader-toggle sidebar-tool" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true"><strong>Course Information</strong></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./instructor.html" class="sidebar-item-text sidebar-link">Instructor Information</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./syllabus.html" class="sidebar-item-text sidebar-link active">Course Syllabus</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true"><strong>Weekly Topics</strong></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./lectures/Week_01/index.html" class="sidebar-item-text sidebar-link">Week 01</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-syllabus" id="toc-course-syllabus" class="nav-link active" data-scroll-target="#course-syllabus">Course Syllabus</a>
+  <ul class="collapse">
+  <li><a href="#course-description-and-objectives" id="toc-course-description-and-objectives" class="nav-link" data-scroll-target="#course-description-and-objectives">Course Description and Objectives</a></li>
+  <li><a href="#course-type" id="toc-course-type" class="nav-link" data-scroll-target="#course-type">Course Type</a></li>
+  <li><a href="#course-credits" id="toc-course-credits" class="nav-link" data-scroll-target="#course-credits">Course Credits</a></li>
+  <li><a href="#course-prerequisites" id="toc-course-prerequisites" class="nav-link" data-scroll-target="#course-prerequisites">Course Prerequisites</a></li>
+  <li><a href="#class-schedule" id="toc-class-schedule" class="nav-link" data-scroll-target="#class-schedule">Class Schedule</a></li>
+  <li><a href="#course-logistics" id="toc-course-logistics" class="nav-link" data-scroll-target="#course-logistics">Course Logistics</a></li>
+  <li><a href="#course-workload" id="toc-course-workload" class="nav-link" data-scroll-target="#course-workload">Course Workload</a></li>
+  <li><a href="#course-tentative-plan" id="toc-course-tentative-plan" class="nav-link" data-scroll-target="#course-tentative-plan">Course Tentative Plan</a></li>
+  <li><a href="#student-learning-outcomes" id="toc-student-learning-outcomes" class="nav-link" data-scroll-target="#student-learning-outcomes">Student Learning Outcomes</a></li>
+  <li><a href="#textbook" id="toc-textbook" class="nav-link" data-scroll-target="#textbook">Textbook</a></li>
+  <li><a href="#recommended-primary-bibliography" id="toc-recommended-primary-bibliography" class="nav-link" data-scroll-target="#recommended-primary-bibliography">Recommended Primary Bibliography</a></li>
+  <li><a href="#supplementary-readings" id="toc-supplementary-readings" class="nav-link" data-scroll-target="#supplementary-readings">Supplementary Readings</a></li>
+  <li><a href="#off-campus-access-to-the-itu-library-e-sources" id="toc-off-campus-access-to-the-itu-library-e-sources" class="nav-link" data-scroll-target="#off-campus-access-to-the-itu-library-e-sources">Off-Campus Access to the ITU Library E-sources</a></li>
+  <li><a href="#selected-important-dates" id="toc-selected-important-dates" class="nav-link" data-scroll-target="#selected-important-dates">Selected Important Dates</a></li>
+  </ul></li>
+  <li><a href="#course-policies" id="toc-course-policies" class="nav-link" data-scroll-target="#course-policies">Course Policies</a>
+  <ul class="collapse">
+  <li><a href="#grading-policy" id="toc-grading-policy" class="nav-link" data-scroll-target="#grading-policy">Grading Policy</a></li>
+  <li><a href="#midterm-date-and-coverage" id="toc-midterm-date-and-coverage" class="nav-link" data-scroll-target="#midterm-date-and-coverage">Midterm date and coverage</a></li>
+  <li><a href="#data-analysis-project-presentation-with-report-submission-date-and-coverage" id="toc-data-analysis-project-presentation-with-report-submission-date-and-coverage" class="nav-link" data-scroll-target="#data-analysis-project-presentation-with-report-submission-date-and-coverage">Data analysis project presentation (with report submission) date and coverage</a></li>
+  <li><a href="#final-exam-attendance-policy" id="toc-final-exam-attendance-policy" class="nav-link" data-scroll-target="#final-exam-attendance-policy">Final Exam Attendance Policy</a></li>
+  <li><a href="#make-up-exam-policy" id="toc-make-up-exam-policy" class="nav-link" data-scroll-target="#make-up-exam-policy">Make-Up Exam Policy</a></li>
+  <li><a href="#class-attendance-policy" id="toc-class-attendance-policy" class="nav-link" data-scroll-target="#class-attendance-policy">Class Attendance Policy</a></li>
+  <li><a href="#participation-policy" id="toc-participation-policy" class="nav-link" data-scroll-target="#participation-policy">Participation Policy</a></li>
+  <li><a href="#e-mail-policy" id="toc-e-mail-policy" class="nav-link" data-scroll-target="#e-mail-policy">E-mail Policy</a></li>
+  <li><a href="#academic-honesty-policy" id="toc-academic-honesty-policy" class="nav-link" data-scroll-target="#academic-honesty-policy">Academic Honesty Policy</a></li>
+  <li><a href="#equity-diversity-and-inclusion" id="toc-equity-diversity-and-inclusion" class="nav-link" data-scroll-target="#equity-diversity-and-inclusion">Equity, Diversity, and Inclusion</a></li>
+  <li><a href="#student-with-special-needs" id="toc-student-with-special-needs" class="nav-link" data-scroll-target="#student-with-special-needs">Student with Special Needs</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/MAT555E-Spring23/MAT555E-Spring23.github.io/edit/main/syllabus.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/MAT555E-Spring23/MAT555E-Spring23.github.io/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="course-syllabus" class="level1">
+<h1>Course Syllabus</h1>
+<section id="course-description-and-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="course-description-and-objectives">Course Description and Objectives</h2>
+<p align="justify">
+</p><p><code>MAT388E</code> is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:<br>
+</p>
+<ul>
+<li>
+The methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a focus on clustering problems,
+</li>
+<li>
+Application of these methods to data analysis problems and their software implementation will be done via <a href="https://www.python.org/downloads/">Python</a>.
+</li>
+</ul>
+<p></p>
+</section>
+<section id="course-type" class="level2">
+<h2 class="anchored" data-anchor-id="course-type">Course Type</h2>
+<p>This is an undergraduate-level elective course for Mathematical Engineering students.</p>
+</section>
+<section id="course-credits" class="level2">
+<h2 class="anchored" data-anchor-id="course-credits">Course Credits</h2>
+<p>3 local credits.</p>
+</section>
+<section id="course-prerequisites" class="level2">
+<h2 class="anchored" data-anchor-id="course-prerequisites">Course Prerequisites</h2>
+<p align="justify">
+</p><p>Since the course also touches on the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:</p>
+<ul>
+<li>
+Knowledge of linear algebra, probability, statistics, and optimization,
+</li>
+<li>
+Familiarity with Python’s <a href="https://numpy.org/">Numpy</a>, <a href="https://pandas.pydata.org/">Pandas</a>, <a href="https://matplotlib.org/">Matplotlib</a>, <a href="https://seaborn.pydata.org/">Seaborn</a>, <a href="https://www.statsmodels.org/stable/index.html">Statsmodels</a>, and <a href="https://scikit-learn.org/stable/">Scikit-Learn</a> libraries,
+</li>
+<li>
+Familiarity with at least one computational document such as <a href="https://jupyter.org/">Jupyter Notebook</a>, <a href="https://colab.research.google.com/">Google Colab</a>, <a href="https://code.visualstudio.com/">Visual Studio Code</a>, or <a href="https://quarto.org/">RStudio Quarto</a>, and
+</li>
+<li>
+Familiarity with <a href="https://git-scm.com/">Git</a> commands and <a href="https://github.com/">GitHub</a> interface.
+</li>
+</ul>
+<p></p>
+</section>
+<section id="class-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="class-schedule">Class Schedule</h2>
+<p><code>CRN 21877:</code> Mondays between 14:30-17:30 at <strong>OBL1</strong> (Computer Lab).</p>
+</section>
+<section id="course-logistics" class="level2">
+<h2 class="anchored" data-anchor-id="course-logistics">Course Logistics</h2>
+<ul>
+<li>Course related all announcements will be done through <a href="https://ninova.itu.edu.tr">Ninova</a>.</li>
+<li>Lecture materials (lecture slides, code scripts, assignments etc) will be uploaded on <a href="https://github.com/MAT388E-Spring23">GitHub organization</a> of the course.</li>
+<li>Students are also expected to bring their own portable computer to the class.</li>
+</ul>
+</section>
+<section id="course-workload" class="level2">
+<h2 class="anchored" data-anchor-id="course-workload">Course Workload</h2>
+<p>1 midterm exam, 2 homework, and 1 group-based project presentation along with a written-report (see details below).</p>
+</section>
+<section id="course-tentative-plan" class="level2">
+<h2 class="anchored" data-anchor-id="course-tentative-plan">Course Tentative Plan</h2>
+<p>We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.</p>
+<p>Week 1. Introduction statistical learning, supervised, unsupervised learning. Exploratory data analysis.</p>
+<p>Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Gradient descent algorithms.</p>
+<p>Week 3. Models evaluation metrics for regression problems. Multiple linear regression. Maximum likelihood estimation.</p>
+<p>Week 4. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.</p>
+<p>Week 5. Regularization methods for regression problems. Ridge and lasso regression.</p>
+<p>Week 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.</p>
+<p>Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept.</p>
+<p>Week 8. ITU Fall Break.</p>
+<p>Week 9. Multi-class classification. Naive Bayes. K-nearest neighbors.</p>
+<p>Week 10. Linear discriminant analysis. Quadratic discriminant analysis. (Midterm Week)</p>
+<p>Week 11. Tree based methods. Bagging, Random forests, and Boosting.</p>
+<p>Week 12. Unsupervised learning. Principal component analysis.</p>
+<p>Week 13. No class due to Labor and Solidarity Day.</p>
+<p>Week 14. Clustering methods.</p>
+<p>Week 15. Final review and applications.</p>
+</section>
+<section id="student-learning-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="student-learning-outcomes">Student Learning Outcomes</h2>
+<p align="justify">
+</p><p>A student who completed this course successfully is expected:</p>
+<ul>
+<li>
+To be fluent in the fundamental principles behind several statistical methods,
+</li>
+<li>
+To be able to apply statistical methods to real life problems and data sets, and
+</li>
+<li>
+To be prepared for more advanced coursework or industrial internship in machine learning and related fields.
+</li>
+</ul>
+<p>immediately following the course, and/or a few months after the course.</p>
+<p></p>
+</section>
+<section id="textbook" class="level2">
+<h2 class="anchored" data-anchor-id="textbook">Textbook</h2>
+<p>All lecture materials.</p>
+</section>
+<section id="recommended-primary-bibliography" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-primary-bibliography">Recommended Primary Bibliography</h2>
+<p align="justify">
+</p><p>Students are encouraged to consult the following sources on their own:</p>
+<ul>
+<li>
+Hastie, T., Tibshirani, R., Friedman, J.H., and Friedman, J.H. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction. New York: Springer. [Hard copy available at ITU Mustafa Inan Library with CALL #Q325.5 .H37 2009] [Available online at <a href="https://hastie.su.domains/ElemStatLearn/" class="uri">https://hastie.su.domains/ElemStatLearn/</a>]
+</li>
+<li>
+James, G., Witten, D., Hastie, T., and Tibshirani, R. (2021). An Introduction to Statistical Learning: With Applications in R. New York: Springer. [Available online at <a href="https://www.statlearning.com/" class="uri">https://www.statlearning.com/</a> ].
+</li>
+<li>
+Fan, J., Li, R., Zhang, C.H., and Zou, H. (2020). Statistical Foundations of Data Science. Chapman and Hall/CRC.
+</li>
+<li>
+Deisenroth, M.P., Faisal, A.A., and Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. [Available online at <a href="https://mml-book.github.io/" class="uri">https://mml-book.github.io/</a>].
+</li>
+<li>
+VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. O’Reilly Media, Inc.&nbsp;[Available online at <a href="https://jakevdp.github.io/PythonDataScienceHandbook/" class="uri">https://jakevdp.github.io/PythonDataScienceHandbook/</a>].
+</li>
+<li>
+Müller, A.C., and Guido, S. (2016). Introduction to Machine Learning with Python: A Guide for Data Scientists. O’Reilly Media, Inc.&nbsp;[Available online at <a href="https://github.com/amueller/introduction_to_ml_with_python" class="uri">https://github.com/amueller/introduction_to_ml_with_python</a>].
+</li>
+</ul>
+<p></p>
+</section>
+<section id="supplementary-readings" class="level2">
+<h2 class="anchored" data-anchor-id="supplementary-readings">Supplementary Readings</h2>
+<p align="justify">
+</p><ul>
+<li>
+Murphy, K.P. (2022). Probabilistic Machine Learning: An Introduction. MIT Press. [Available online at <a href="https://probml.github.io/pml-book/book1.html" class="uri">https://probml.github.io/pml-book/book1.html</a>].
+</li>
+<li>
+Bishop, C.M., Nasrabadi, N. M. (2006). Pattern Recognition and Machine Learning. New York: Springer. [Hard copy available at ITU Mechanical Eng. Library with CALL #Q327 .B52 2006]
+</li>
+</ul>
+<p></p>
+</section>
+<section id="off-campus-access-to-the-itu-library-e-sources" class="level2">
+<h2 class="anchored" data-anchor-id="off-campus-access-to-the-itu-library-e-sources">Off-Campus Access to the ITU Library E-sources</h2>
+<p align="justify">
+</p><p>Access to library e-sources remotely is possible with a library account. Users without a library account should apply for the library registration at <a href="https://kutuphane.itu.edu.tr/en/register">Library register</a>. After setting the web configurations given at <a href="https://kutuphane.itu.edu.tr/en/services/web-browser-proxy-settings">Proxy</a> only once on your computer, you will able to have an access to ITU Library e-sources.</p>
+<p>
+</p></section>
+<section id="selected-important-dates" class="level2">
+<h2 class="anchored" data-anchor-id="selected-important-dates">Selected Important Dates</h2>
+<p>For the official ITU Fall 2022-2023 academic calendar, please visit:</p>
+<p><a href="https://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2023/lisansustu-akademik-takvimi.php" class="uri">https://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2023/lisansustu-akademik-takvimi.php</a></p>
+<p>Here are some selected important dates in Spring 2023 semester:</p>
+<p>February 06, 2023: First day of classes.</p>
+<p>February 06-10, 2023: Add-drop week.</p>
+<p>March 27-31, 2023: ITU Spring Break (No classes).</p>
+<p>April 21-23, 2023: Ramadan Feast Holiday (Friday-Sunday).</p>
+<p>April 23, 2023: National Sovereignty and Children’s Day (Sunday).</p>
+<p>May 1, 2023: Labor and Solidarity Day (<strong>Monday, No class</strong>).</p>
+<p>May 19, 2023: Commemoration of Atatürk, Youth and Sports Day (Friday)</p>
+<p>May 19, 2023: Last day of classes.</p>
+<p>May 22-June 04, 2023: Final exam week.</p>
+<p>I also honor other national and religious holidays. Students, who needs flexibility on individual-based studies overlapping with these special days, can inform me.</p>
+</section>
+</section>
+<section id="course-policies" class="level1">
+<h1>Course Policies</h1>
+<p>Please read the information below as a reference for how this class will be conducted.</p>
+<section id="grading-policy" class="level2">
+<h2 class="anchored" data-anchor-id="grading-policy">Grading Policy</h2>
+<table class="table">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Assessment Method</th>
+<th style="text-align: left;">Contribution to Final Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">2 Homework</td>
+<td style="text-align: left;">Each 5%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Midterm exam</td>
+<td style="text-align: left;">40%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Data analysis project proposal</td>
+<td style="text-align: left;">10%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data analysis project presentation</td>
+<td style="text-align: left;">20%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Data analysis project report</td>
+<td style="text-align: left;">20%</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="midterm-date-and-coverage" class="level2">
+<h2 class="anchored" data-anchor-id="midterm-date-and-coverage">Midterm date and coverage</h2>
+<p align="justify">
+</p><ul>
+<li>The midterm will be on <code>TBA</code>.</li>
+<li>The midterm topics will cover whatever we have covered up to that week.</li>
+<li>The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.</li>
+<li>The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.</li>
+</ul>
+<p>
+</p></section>
+<section id="data-analysis-project-presentation-with-report-submission-date-and-coverage" class="level2">
+<h2 class="anchored" data-anchor-id="data-analysis-project-presentation-with-report-submission-date-and-coverage">Data analysis project presentation (with report submission) date and coverage</h2>
+<p align="justify">
+</p><ul>
+<li><p>The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.</p></li>
+<li><p>In the data analysis project you are asked to develop a data analysis project from zero.</p></li>
+<li><p>You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem.</p></li>
+</ul>
+<p></p>
+</section>
+<section id="final-exam-attendance-policy" class="level2">
+<h2 class="anchored" data-anchor-id="final-exam-attendance-policy">Final Exam Attendance Policy</h2>
+<p>There is no VF rule to attend or not to attend the final exam.</p>
+</section>
+<section id="make-up-exam-policy" class="level2">
+<h2 class="anchored" data-anchor-id="make-up-exam-policy">Make-Up Exam Policy</h2>
+<p align="justify">
+</p><ul>
+<li>The students who miss either midterm exam or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day.</li>
+<li>The medical report should be handed in immediately (within two days of its expiration).</li>
+<li>There will be <strong>NO</strong> make-up for missed homework.</li>
+</ul>
+<p></p>
+</section>
+<section id="class-attendance-policy" class="level2">
+<h2 class="anchored" data-anchor-id="class-attendance-policy">Class Attendance Policy</h2>
+<p>The students must attend at least 70% of classes and are deemed responsible to manage his/her absences.</p>
+</section>
+<section id="participation-policy" class="level2">
+<h2 class="anchored" data-anchor-id="participation-policy">Participation Policy</h2>
+<p align="justify">
+</p><p>The students are expected to ask and answer questions, participate in in-class activities, and show their interest and engagement in the class.</p>
+<p></p>
+</section>
+<section id="e-mail-policy" class="level2">
+<h2 class="anchored" data-anchor-id="e-mail-policy">E-mail Policy</h2>
+<p>Please:</p>
+<ul>
+<li>Use a proper descriptive subject line (which may consist of the course number MAT388E followed by a short phrase summarizing the subject of your e-mail).</li>
+<li>Start off your e-mail with a proper greeting, introduce yourself (give your name), then state your problem as short as possible.</li>
+<li>Finally, use a proper closing and then finish your e-mail with your first name and so on.</li>
+</ul>
+<p>Feel free to send me e-mails. But be sure you that give me enough time to get back to you.</p>
+<div class="callout-important callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>E-mail messages sent after business hours and at weekends will be responded at the closest business hour.</li>
+<li>Lastly, e-mails asking for grade grubbing at the end of the semester are not welcomed.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="academic-honesty-policy" class="level2">
+<h2 class="anchored" data-anchor-id="academic-honesty-policy">Academic Honesty Policy</h2>
+<p align="justify">
+</p><p>At every stage of the academic life, every ITU student is responsible for obeying the academic honesty policy of ITU stated below:</p>
+<p>
+</p><p><a href="https://odek.itu.edu.tr/en/code-of-honor/ethics-in-university-life" class="uri">https://odek.itu.edu.tr/en/code-of-honor/ethics-in-university-life</a>.</p>
+</section>
+<section id="equity-diversity-and-inclusion" class="level2">
+<h2 class="anchored" data-anchor-id="equity-diversity-and-inclusion">Equity, Diversity, and Inclusion</h2>
+<p align="justify">
+</p><p>In this class, I am committed to cultural and individual differences and diversity as including, but not limited to, age, disability, ethnicity, gender, gender identity, language, national origin, race, religion, culture, and socioeconomic status and I acknowledge the value of differences.</p>
+<p>
+</p></section>
+<section id="student-with-special-needs" class="level2">
+<h2 class="anchored" data-anchor-id="student-with-special-needs">Student with Special Needs</h2>
+<p align="justify">
+</p><p>I truly care about that every student in my class feels that she/he involved in this class equally. If you are a student with special needs, please, let me know that how we can adjust the course environment, materials, and course assessment methods in accordance with your needs. Furthermore, you are also invited to contact the office of students with special needs at:</p>
+<p><a href="http://engelsiz.itu.edu.tr/" class="uri">http://engelsiz.itu.edu.tr/</a>.</p>
+<p>
+</p>
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./instructor.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Instructor Information</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./lectures/Week_01/index.html" class="pagination-link">
+        <span class="nav-page-text">Week 01</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">This website is built with <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" class="img-fluid" alt="Quarto" width="80"></a>.</div>   
+    <div class="nav-footer-right">© Copyright 2023, Gül İnan</div>
+  </div>
+</footer>
+
+
+
+</body></html>

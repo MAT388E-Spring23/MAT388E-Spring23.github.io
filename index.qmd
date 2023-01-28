@@ -1,0 +1,65 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+![](/images/itu_header_2.jpeg)
+
+## MAT388E-Data Analysis in Fundemantal Sciences
+
+**Course Instructor:** [Gül İnan](https://gulinan.github.io/)
+
+**Course Summary:**
+
+<p align="justify">
+
+`MAT388E` is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:\
+
+<ul>
+
+<li>The methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a focus on clustering problems,</li>
+
+<li>Application of these methods to data analysis problems and their software implementation will be done via [Python](https://www.python.org/downloads/).</li>
+
+</ul>
+
+At the end of the semester, the students are expected:
+
+<ul>
+
+<li>To be fluent in the fundamental principles behind several statistical methods,</li>
+
+<li>To be able to apply statistical methods to real life problems and data sets, and</li>
+
+<li>To be prepared for more advanced coursework or industrial internship in machine learning and related fields.</li>
+
+</ul>
+
+</p>
+
+**Course GitHub Organization:** <https://github.com/MAT388E-Spring23>.
+
+**Course Prerequisites:**
+
+<p align="justify">
+
+Since the course also touches on the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:
+
+<ul>
+
+<li>Knowledge of linear algebra, probability, statistics, and optimization,</li>
+
+<li>Familiarity with Python's [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html), and [Scikit-Learn](https://scikit-learn.org/stable/) libraries,</li>
+
+<li>Familiarity with at least one computational document such as [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/), [Visual Studio Code](https://code.visualstudio.com/), or [RStudio Quarto](https://quarto.org/), and</li>
+
+<li>Familiarity with [Git](https://git-scm.com/) commands and [GitHub](https://github.com/) interface.</li>
+
+</ul>
+
+</p>
+
+**Class Schedule:**
+
+`CRN 21877:` Mondays between 14:30-17:30 at **OBL1** (Computer Lab).

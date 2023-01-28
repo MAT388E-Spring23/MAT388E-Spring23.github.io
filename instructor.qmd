@@ -1,0 +1,15 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+# Instructor Information
+
+**Instructor:** [Gül İnan](https://gulinan.github.io/)
+
+**E-mail:** inan\@itu.edu.tr
+
+**Office:** Room 424 \@ Department of Mathematics, Faculty of Arts and Sciences.
+
+**Office hour:** You can ask me your questions right after the class or send me an e-mail for your queries.

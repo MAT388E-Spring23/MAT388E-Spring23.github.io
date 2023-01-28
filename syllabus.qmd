@@ -1,0 +1,303 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+# Course Syllabus
+
+## Course Description and Objectives
+
+<p align="justify">
+
+`MAT388E` is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:\
+
+<ul>
+
+<li>The methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a focus on clustering problems,</li>
+
+<li>Application of these methods to data analysis problems and their software implementation will be done via [Python](https://www.python.org/downloads/).</li>
+
+</ul>
+
+</p>
+
+## Course Type
+
+This is an undergraduate-level elective course for Mathematical Engineering students.
+
+## Course Credits
+
+3 local credits.
+
+## Course Prerequisites
+
+<p align="justify">
+
+Since the course also touches on the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:
+
+<ul>
+
+<li>Knowledge of linear algebra, probability, statistics, and optimization,</li>
+
+<li>Familiarity with Python's [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html), and [Scikit-Learn](https://scikit-learn.org/stable/) libraries,</li>
+
+<li>Familiarity with at least one computational document such as [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/), [Visual Studio Code](https://code.visualstudio.com/), or [RStudio Quarto](https://quarto.org/), and</li>
+
+<li>Familiarity with [Git](https://git-scm.com/) commands and [GitHub](https://github.com/) interface.</li>
+
+</ul>
+
+</p>
+
+## Class Schedule
+
+`CRN 21877:` Mondays between 14:30-17:30 at **OBL1** (Computer Lab).
+
+## Course Logistics
+
+-   Course related all announcements will be done through <a href="https://ninova.itu.edu.tr">Ninova</a>.
+-   Lecture materials (lecture slides, code scripts, assignments etc) will be uploaded on <a href="https://github.com/MAT388E-Spring23">GitHub organization</a> of the course.
+-   Students are also expected to bring their own portable computer to the class.
+
+## Course Workload
+
+1 midterm exam, 2 homework, and 1 group-based project presentation along with a written-report (see details below).
+
+## Course Tentative Plan
+
+We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
+
+Week 1. Introduction statistical learning, supervised, unsupervised learning. Exploratory data analysis.
+
+Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Gradient descent algorithms.
+
+Week 3. Models evaluation metrics for regression problems. Multiple linear regression. Maximum likelihood estimation.
+
+Week 4. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
+
+Week 5. Regularization methods for regression problems. Ridge and lasso regression.
+
+Week 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
+
+Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept.
+
+Week 8. ITU Fall Break.
+
+Week 9. Multi-class classification. Naive Bayes. K-nearest neighbors.
+
+Week 10. Linear discriminant analysis. Quadratic discriminant analysis. (Midterm Week)
+
+Week 11. Tree based methods. Bagging, Random forests, and Boosting.
+
+Week 12. Unsupervised learning. Principal component analysis.
+
+Week 13. No class due to Labor and Solidarity Day.
+
+Week 14. Clustering methods.
+
+Week 15. Final review and applications.
+
+## Student Learning Outcomes
+
+<p align="justify">
+
+A student who completed this course successfully is expected:
+
+<ul>
+
+<li>To be fluent in the fundamental principles behind several statistical methods,</li>
+
+<li>To be able to apply statistical methods to real life problems and data sets, and</li>
+
+<li>To be prepared for more advanced coursework or industrial internship in machine learning and related fields.</li>
+
+</ul>
+
+immediately following the course, and/or a few months after the course.
+
+</p>
+
+## Textbook
+
+All lecture materials.
+
+## Recommended Primary Bibliography
+
+<p align="justify">
+
+Students are encouraged to consult the following sources on their own:
+
+<ul>
+
+<li>Hastie, T., Tibshirani, R., Friedman, J.H., and Friedman, J.H. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction. New York: Springer. \[Hard copy available at ITU Mustafa Inan Library with CALL #Q325.5 .H37 2009\] \[Available online at <https://hastie.su.domains/ElemStatLearn/>\]</li>
+
+<li>James, G., Witten, D., Hastie, T., and Tibshirani, R. (2021). An Introduction to Statistical Learning: With Applications in R. New York: Springer. \[Available online at <https://www.statlearning.com/> \].</li>
+
+<li>Fan, J., Li, R., Zhang, C.H., and Zou, H. (2020). Statistical Foundations of Data Science. Chapman and Hall/CRC.</li>
+
+<li>Deisenroth, M.P., Faisal, A.A., and Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. \[Available online at <https://mml-book.github.io/>\].</li>
+
+<li>VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media, Inc. \[Available online at <https://jakevdp.github.io/PythonDataScienceHandbook/>\].</li>
+
+<li>Müller, A.C., and Guido, S. (2016). Introduction to Machine Learning with Python: A Guide for Data Scientists. O'Reilly Media, Inc. \[Available online at <https://github.com/amueller/introduction_to_ml_with_python>\].</li>
+
+</ul>
+
+</p>
+
+## Supplementary Readings
+
+<p align="justify">
+
+<ul>
+
+<li>Murphy, K.P. (2022). Probabilistic Machine Learning: An Introduction. MIT Press. \[Available online at <https://probml.github.io/pml-book/book1.html>\].</li>
+
+<li>Bishop, C.M., Nasrabadi, N. M. (2006). Pattern Recognition and Machine Learning. New York: Springer. \[Hard copy available at ITU Mechanical Eng. Library with CALL #Q327 .B52 2006\]</li>
+
+</ul>
+
+</p>
+
+## Off-Campus Access to the ITU Library E-sources
+
+<p align="justify">
+
+Access to library e-sources remotely is possible with a library account. Users without a library account should apply for the library registration at <a href="https://kutuphane.itu.edu.tr/en/register">Library register</a>. After setting the web configurations given at <a href="https://kutuphane.itu.edu.tr/en/services/web-browser-proxy-settings">Proxy</a> only once on your computer, you will able to have an access to ITU Library e-sources.
+
+<p>
+
+## Selected Important Dates
+
+For the official ITU Fall 2022-2023 academic calendar, please visit:
+
+<https://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2023/lisansustu-akademik-takvimi.php>
+
+Here are some selected important dates in Spring 2023 semester:
+
+February 06, 2023: First day of classes.
+
+February 06-10, 2023: Add-drop week.
+
+March 27-31, 2023: ITU Spring Break (No classes).
+
+April 21-23, 2023: Ramadan Feast Holiday (Friday-Sunday).
+
+April 23, 2023: National Sovereignty and Children's Day (Sunday).
+
+May 1, 2023: Labor and Solidarity Day (**Monday, No class**).
+
+May 19, 2023: Commemoration of Atatürk, Youth and Sports Day (Friday)
+
+May 19, 2023: Last day of classes.
+
+May 22-June 04, 2023: Final exam week.
+
+I also honor other national and religious holidays. Students, who needs flexibility on individual-based studies overlapping with these special days, can inform me.
+
+# Course Policies
+
+Please read the information below as a reference for how this class will be conducted.
+
+## Grading Policy
+
+| Assessment Method                  | Contribution to Final Grade |
+|:-----------------------------------|:----------------------------|
+| 2 Homework                         | Each 5%                     |
+| Midterm exam                       | 40%                         |
+| Data analysis project proposal     | 10%                         |
+| Data analysis project presentation | 20%                         |
+| Data analysis project report       | 20%                         |
+
+## Midterm date and coverage
+
+<p align="justify">
+
+-   The midterm will be on `TBA`.
+-   The midterm topics will cover whatever we have covered up to that week.
+-   The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.
+-   The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
+
+<p>
+
+## Data analysis project presentation (along with report submission) date and coverage
+
+<p align="justify">
+
+-   The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.
+
+-   In the data analysis project you are asked to develop a data analysis project from zero.
+
+-   You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem.
+
+</p>
+
+## Final Exam Attendance Policy
+
+There is no VF rule to attend or not to attend the final exam.
+
+## Make-Up Exam Policy
+
+<p align="justify">
+
+-   The students who miss either midterm exam or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day.
+-   The medical report should be handed in immediately (within two days of its expiration).
+-   There will be **NO** make-up for missed homework.
+
+</p>
+
+## Class Attendance Policy
+
+The students must attend at least 70% of classes and are deemed responsible to manage his/her absences.
+
+## Participation Policy
+
+<p align="justify">
+
+The students are expected to ask and answer questions, participate in in-class activities, and show their interest and engagement in the class.
+
+</p>
+
+## E-mail Policy
+
+Please:
+
+-   Use a proper descriptive subject line (which may consist of the course number MAT388E followed by a short phrase summarizing the subject of your e-mail).
+-   Start off your e-mail with a proper greeting, introduce yourself (give your name), then state your problem as short as possible.
+-   Finally, use a proper closing and then finish your e-mail with your first name and so on.
+
+Feel free to send me e-mails. But be sure you that give me enough time to get back to you.
+
+::: callout-important
+-   E-mail messages sent after business hours and at weekends will be responded at the closest business hour.
+-   Lastly, e-mails asking for grade grubbing at the end of the semester are not welcomed.
+:::
+
+## Academic Honesty Policy
+
+<p align="justify">
+
+At every stage of the academic life, every ITU student is responsible for obeying the academic honesty policy of ITU stated below:
+
+<p>
+
+<https://odek.itu.edu.tr/en/code-of-honor/ethics-in-university-life>.
+
+## Equity, Diversity, and Inclusion
+
+<p align="justify">
+
+In this class, I am committed to cultural and individual differences and diversity as including, but not limited to, age, disability, ethnicity, gender, gender identity, language, national origin, race, religion, culture, and socioeconomic status and I acknowledge the value of differences.
+
+<p>
+
+## Student with Special Needs
+
+<p align="justify">
+
+I truly care about that every student in my class feels that she/he involved in this class equally. If you are a student with special needs, please, let me know that how we can adjust the course environment, materials, and course assessment methods in accordance with your needs. Furthermore, you are also invited to contact the office of students with special needs at:
+
+<http://engelsiz.itu.edu.tr/>.
+
+<p>
