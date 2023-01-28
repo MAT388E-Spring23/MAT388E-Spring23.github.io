@@ -1,1 +1,1 @@
-Sitemap: https://MAT555E-Spring23.github.io/sitemap.xml
+Sitemap: https://MAT388E-Spring23.github.io/sitemap.xml

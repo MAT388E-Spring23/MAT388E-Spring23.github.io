@@ -6,7 +6,7 @@ editor: visual
 
 ![](/images/itu_header_2.jpeg)
 
-## MAT388E-Data Analysis in Fundemantal Sciences
+## MAT388E-Data Analysis in Fundamental Sciences
 
 **Course Instructor:** [Gül İnan](https://gulinan.github.io/)
 
@@ -14,7 +14,7 @@ editor: visual
 
 <p align="justify">
 
-`MAT388E` is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:\
+`MAT388E` is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:
 
 <ul>
 

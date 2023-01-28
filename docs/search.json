@@ -1,99 +1,99 @@
 [
   {
-    "objectID": "index.html#mat388e-data-analysis-in-fundemantal-sciences",
-    "href": "index.html#mat388e-data-analysis-in-fundemantal-sciences",
-    "title": "MAT555E",
-    "section": "MAT388E-Data Analysis in Fundemantal Sciences",
-    "text": "MAT388E-Data Analysis in Fundemantal Sciences\nCourse Instructor: Gül İnan\nCourse Summary:\n\nMAT388E is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:\n\n\n\nThe methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a focus on clustering problems,\n\n\nApplication of these methods to data analysis problems and their software implementation will be done via Python.\n\n\nAt the end of the semester, the students are expected:\n\n\nTo be fluent in the fundamental principles behind several statistical methods,\n\n\nTo be able to apply statistical methods to real life problems and data sets, and\n\n\nTo be prepared for more advanced coursework or industrial internship in machine learning and related fields.\n\n\n\nCourse GitHub Organization: https://github.com/MAT388E-Spring23.\nCourse Prerequisites:\n\nSince the course also touches on the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:\n\n\nKnowledge of linear algebra, probability, statistics, and optimization,\n\n\nFamiliarity with Python’s Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, and Scikit-Learn libraries,\n\n\nFamiliarity with at least one computational document such as Jupyter Notebook, Google Colab, Visual Studio Code, or RStudio Quarto, and\n\n\nFamiliarity with Git commands and GitHub interface.\n\n\n\nClass Schedule:\nCRN 21877: Mondays between 14:30-17:30 at OBL1 (Computer Lab)."
+    "objectID": "index.html#mat388e-data-analysis-in-fundamental-sciences",
+    "href": "index.html#mat388e-data-analysis-in-fundamental-sciences",
+    "title": "MAT388E",
+    "section": "MAT388E-Data Analysis in Fundamental Sciences",
+    "text": "MAT388E-Data Analysis in Fundamental Sciences\nCourse Instructor: Gül İnan\nCourse Summary:\n\nMAT388E is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:\n\n\nThe methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a focus on clustering problems,\n\n\nApplication of these methods to data analysis problems and their software implementation will be done via Python.\n\n\nAt the end of the semester, the students are expected:\n\n\nTo be fluent in the fundamental principles behind several statistical methods,\n\n\nTo be able to apply statistical methods to real life problems and data sets, and\n\n\nTo be prepared for more advanced coursework or industrial internship in machine learning and related fields.\n\n\n\nCourse GitHub Organization: https://github.com/MAT388E-Spring23.\nCourse Prerequisites:\n\nSince the course also touches on the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:\n\n\nKnowledge of linear algebra, probability, statistics, and optimization,\n\n\nFamiliarity with Python’s Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, and Scikit-Learn libraries,\n\n\nFamiliarity with at least one computational document such as Jupyter Notebook, Google Colab, Visual Studio Code, or RStudio Quarto, and\n\n\nFamiliarity with Git commands and GitHub interface.\n\n\n\nClass Schedule:\nCRN 21877: Mondays between 14:30-17:30 at OBL1 (Computer Lab)."
   },
   {
     "objectID": "instructor.html",
     "href": "instructor.html",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "",
     "text": "Instructor: Gül İnan\nE-mail: inan@itu.edu.tr\nOffice: Room 424 @ Department of Mathematics, Faculty of Arts and Sciences.\nOffice hour: You can ask me your questions right after the class or send me an e-mail for your queries."
   },
   {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "",
     "text": "MAT388E is an undergraduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction problems in data analysis. This course is designed such that:\n\n\n\nThe methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a focus on clustering problems,\n\n\nApplication of these methods to data analysis problems and their software implementation will be done via Python.\n\n\n\n\n\n\nThis is an undergraduate-level elective course for Mathematical Engineering students.\n\n\n\n3 local credits.\n\n\n\n\nSince the course also touches on the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:\n\n\nKnowledge of linear algebra, probability, statistics, and optimization,\n\n\nFamiliarity with Python’s Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, and Scikit-Learn libraries,\n\n\nFamiliarity with at least one computational document such as Jupyter Notebook, Google Colab, Visual Studio Code, or RStudio Quarto, and\n\n\nFamiliarity with Git commands and GitHub interface.\n\n\n\n\n\n\nCRN 21877: Mondays between 14:30-17:30 at OBL1 (Computer Lab).\n\n\n\n\nCourse related all announcements will be done through Ninova.\nLecture materials (lecture slides, code scripts, assignments etc) will be uploaded on GitHub organization of the course.\nStudents are also expected to bring their own portable computer to the class.\n\n\n\n\n1 midterm exam, 2 homework, and 1 group-based project presentation along with a written-report (see details below).\n\n\n\nWe will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.\nWeek 1. Introduction statistical learning, supervised, unsupervised learning. Exploratory data analysis.\nWeek 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Gradient descent algorithms.\nWeek 3. Models evaluation metrics for regression problems. Multiple linear regression. Maximum likelihood estimation.\nWeek 4. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.\nWeek 5. Regularization methods for regression problems. Ridge and lasso regression.\nWeek 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.\nWeek 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept.\nWeek 8. ITU Fall Break.\nWeek 9. Multi-class classification. Naive Bayes. K-nearest neighbors.\nWeek 10. Linear discriminant analysis. Quadratic discriminant analysis. (Midterm Week)\nWeek 11. Tree based methods. Bagging, Random forests, and Boosting.\nWeek 12. Unsupervised learning. Principal component analysis.\nWeek 13. No class due to Labor and Solidarity Day.\nWeek 14. Clustering methods.\nWeek 15. Final review and applications.\n\n\n\n\nA student who completed this course successfully is expected:\n\n\nTo be fluent in the fundamental principles behind several statistical methods,\n\n\nTo be able to apply statistical methods to real life problems and data sets, and\n\n\nTo be prepared for more advanced coursework or industrial internship in machine learning and related fields.\n\n\nimmediately following the course, and/or a few months after the course.\n\n\n\n\nAll lecture materials.\n\n\n\n\nStudents are encouraged to consult the following sources on their own:\n\n\nHastie, T., Tibshirani, R., Friedman, J.H., and Friedman, J.H. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction. New York: Springer. [Hard copy available at ITU Mustafa Inan Library with CALL #Q325.5 .H37 2009] [Available online at https://hastie.su.domains/ElemStatLearn/]\n\n\nJames, G., Witten, D., Hastie, T., and Tibshirani, R. (2021). An Introduction to Statistical Learning: With Applications in R. New York: Springer. [Available online at https://www.statlearning.com/ ].\n\n\nFan, J., Li, R., Zhang, C.H., and Zou, H. (2020). Statistical Foundations of Data Science. Chapman and Hall/CRC.\n\n\nDeisenroth, M.P., Faisal, A.A., and Ong, C. S. (2020). Mathematics for Machine Learning. Cambridge University Press. [Available online at https://mml-book.github.io/].\n\n\nVanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. O’Reilly Media, Inc. [Available online at https://jakevdp.github.io/PythonDataScienceHandbook/].\n\n\nMüller, A.C., and Guido, S. (2016). Introduction to Machine Learning with Python: A Guide for Data Scientists. O’Reilly Media, Inc. [Available online at https://github.com/amueller/introduction_to_ml_with_python].\n\n\n\n\n\n\n\n\n\nMurphy, K.P. (2022). Probabilistic Machine Learning: An Introduction. MIT Press. [Available online at https://probml.github.io/pml-book/book1.html].\n\n\nBishop, C.M., Nasrabadi, N. M. (2006). Pattern Recognition and Machine Learning. New York: Springer. [Hard copy available at ITU Mechanical Eng. Library with CALL #Q327 .B52 2006]\n\n\n\n\n\n\n\nAccess to library e-sources remotely is possible with a library account. Users without a library account should apply for the library registration at Library register. After setting the web configurations given at Proxy only once on your computer, you will able to have an access to ITU Library e-sources.\n\n\n\n\nFor the official ITU Fall 2022-2023 academic calendar, please visit:\nhttps://www.sis.itu.edu.tr/TR/ogrenci/akademik-takvim/akademik-takvimler/takvim2023/lisansustu-akademik-takvimi.php\nHere are some selected important dates in Spring 2023 semester:\nFebruary 06, 2023: First day of classes.\nFebruary 06-10, 2023: Add-drop week.\nMarch 27-31, 2023: ITU Spring Break (No classes).\nApril 21-23, 2023: Ramadan Feast Holiday (Friday-Sunday).\nApril 23, 2023: National Sovereignty and Children’s Day (Sunday).\nMay 1, 2023: Labor and Solidarity Day (Monday, No class).\nMay 19, 2023: Commemoration of Atatürk, Youth and Sports Day (Friday)\nMay 19, 2023: Last day of classes.\nMay 22-June 04, 2023: Final exam week.\nI also honor other national and religious holidays. Students, who needs flexibility on individual-based studies overlapping with these special days, can inform me."
   },
   {
     "objectID": "syllabus.html#grading-policy",
     "href": "syllabus.html#grading-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Grading Policy",
     "text": "Grading Policy\n\n\n\nAssessment Method\nContribution to Final Grade\n\n\n\n\n2 Homework\nEach 5%\n\n\nMidterm exam\n40%\n\n\nData analysis project proposal\n10%\n\n\nData analysis project presentation\n20%\n\n\nData analysis project report\n20%"
   },
   {
     "objectID": "syllabus.html#midterm-date-and-coverage",
     "href": "syllabus.html#midterm-date-and-coverage",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Midterm date and coverage",
     "text": "Midterm date and coverage\n\n\nThe midterm will be on TBA.\nThe midterm topics will cover whatever we have covered up to that week.\nThe main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.\nThe midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place."
   },
   {
     "objectID": "syllabus.html#data-analysis-project-presentation-along-with-report-submission-date-and-coverage",
     "href": "syllabus.html#data-analysis-project-presentation-along-with-report-submission-date-and-coverage",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Data analysis project presentation (along with report submission) date and coverage",
     "text": "Data analysis project presentation (along with report submission) date and coverage\n\n\nThe project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.\nIn the data analysis project you are asked to develop a data analysis project from zero.\nYou need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem."
   },
   {
     "objectID": "syllabus.html#final-exam-attendance-policy",
     "href": "syllabus.html#final-exam-attendance-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Final Exam Attendance Policy",
     "text": "Final Exam Attendance Policy\nThere is no VF rule to attend or not to attend the final exam."
   },
   {
     "objectID": "syllabus.html#make-up-exam-policy",
     "href": "syllabus.html#make-up-exam-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Make-Up Exam Policy",
     "text": "Make-Up Exam Policy\n\n\nThe students who miss either midterm exam or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day.\nThe medical report should be handed in immediately (within two days of its expiration).\nThere will be NO make-up for missed homework."
   },
   {
     "objectID": "syllabus.html#class-attendance-policy",
     "href": "syllabus.html#class-attendance-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Class Attendance Policy",
     "text": "Class Attendance Policy\nThe students must attend at least 70% of classes and are deemed responsible to manage his/her absences."
   },
   {
     "objectID": "syllabus.html#participation-policy",
     "href": "syllabus.html#participation-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Participation Policy",
     "text": "Participation Policy\n\nThe students are expected to ask and answer questions, participate in in-class activities, and show their interest and engagement in the class."
   },
   {
     "objectID": "syllabus.html#e-mail-policy",
     "href": "syllabus.html#e-mail-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "E-mail Policy",
     "text": "E-mail Policy\nPlease:\n\nUse a proper descriptive subject line (which may consist of the course number MAT388E followed by a short phrase summarizing the subject of your e-mail).\nStart off your e-mail with a proper greeting, introduce yourself (give your name), then state your problem as short as possible.\nFinally, use a proper closing and then finish your e-mail with your first name and so on.\n\nFeel free to send me e-mails. But be sure you that give me enough time to get back to you.\n\n\n\n\n\n\nImportant\n\n\n\n\nE-mail messages sent after business hours and at weekends will be responded at the closest business hour.\nLastly, e-mails asking for grade grubbing at the end of the semester are not welcomed."
   },
   {
     "objectID": "syllabus.html#academic-honesty-policy",
     "href": "syllabus.html#academic-honesty-policy",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Academic Honesty Policy",
     "text": "Academic Honesty Policy\n\nAt every stage of the academic life, every ITU student is responsible for obeying the academic honesty policy of ITU stated below:\n\nhttps://odek.itu.edu.tr/en/code-of-honor/ethics-in-university-life."
   },
   {
     "objectID": "syllabus.html#equity-diversity-and-inclusion",
     "href": "syllabus.html#equity-diversity-and-inclusion",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Equity, Diversity, and Inclusion",
     "text": "Equity, Diversity, and Inclusion\n\nIn this class, I am committed to cultural and individual differences and diversity as including, but not limited to, age, disability, ethnicity, gender, gender identity, language, national origin, race, religion, culture, and socioeconomic status and I acknowledge the value of differences."
   },
   {
     "objectID": "syllabus.html#student-with-special-needs",
     "href": "syllabus.html#student-with-special-needs",
-    "title": "MAT555E",
+    "title": "MAT388E",
     "section": "Student with Special Needs",
     "text": "Student with Special Needs\n\nI truly care about that every student in my class feels that she/he involved in this class equally. If you are a student with special needs, please, let me know that how we can adjust the course environment, materials, and course assessment methods in accordance with your needs. Furthermore, you are also invited to contact the office of students with special needs at:\nhttp://engelsiz.itu.edu.tr/."
   },

@@ -7,11 +7,11 @@ website:
 
   page-navigation: true
   reader-mode: true
-  title: "MAT555E"
-  description: "Homepage for MAT555E."
-  site-url: "https://MAT555E-Spring23.github.io"
+  title: "MAT388E"
+  description: "Homepage for MAT388E."
+  site-url: "https://MAT388E-Spring23.github.io"
    
-  repo-url: https://github.com/MAT555E-Spring23/MAT555E-Spring23.github.io
+  repo-url: https://github.com/MAT388E-Spring23/MAT388E-Spring23.github.io
   repo-actions: [edit, issue] 
   
   page-footer:
@@ -20,12 +20,12 @@ website:
     right: "&copy; Copyright 2023, Gül İnan"
 
   sidebar: 
-    logo: "images/logo.png"
+    logo: "images/logo3.png"
     pinned: false
     align: center
     tools:
       - icon: github
-        href: https://github.com/MAT555E-Spring23
+        href: https://github.com/MAT388E-Spring23
       - icon: code-square
         href: https://ninova.itu.edu.tr/tr/
     style: "floating"
