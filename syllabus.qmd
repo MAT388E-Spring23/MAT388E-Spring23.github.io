@@ -226,9 +226,7 @@ Please read the information below as a reference for how this class will be cond
 <p align="justify">
 
 -   The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.
-
 -   In the data analysis project you are asked to develop a data analysis project from zero.
-
 -   You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem.
 
 </p>
