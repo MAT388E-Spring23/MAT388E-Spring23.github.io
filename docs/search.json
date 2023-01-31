@@ -32,14 +32,14 @@
     "href": "syllabus.html#midterm-date-and-coverage",
     "title": "MAT388E",
     "section": "Midterm date and coverage",
-    "text": "Midterm date and coverage\n\n\nThe midterm will be on TBA.\nThe midterm topics will cover whatever we have covered up to that week.\nThe main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.\nThe midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place."
+    "text": "Midterm date and coverage\n\n\nThe midterm will be on TBA.\nThe midterm topics will cover whatever we have covered up to that week.\nThe main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results."
   },
   {
     "objectID": "syllabus.html#data-analysis-project-presentation-along-with-report-submission-date-and-coverage",
     "href": "syllabus.html#data-analysis-project-presentation-along-with-report-submission-date-and-coverage",
     "title": "MAT388E",
     "section": "Data analysis project presentation (along with report submission) date and coverage",
-    "text": "Data analysis project presentation (along with report submission) date and coverage\n\n\nThe project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.\nIn the data analysis project you are asked to develop a data analysis project from zero.\nYou need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem."
+    "text": "Data analysis project presentation (along with report submission) date and coverage\n\n\nThe project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.\nIn the data analysis project you are asked to develop a data analysis project from zero.\nYou need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered (e.g., kernel methods, network clustering, graph analytics, semi-supervised learning, Gaussian processes, reinforcement learning, and big data analytic platforms) in the course to find answers to your research problem."
   },
   {
     "objectID": "syllabus.html#final-exam-attendance-policy",

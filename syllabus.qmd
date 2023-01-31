@@ -217,7 +217,6 @@ Please read the information below as a reference for how this class will be cond
 -   The midterm will be on `TBA`.
 -   The midterm topics will cover whatever we have covered up to that week.
 -   The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.
--   The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
 
 <p>
 
@@ -227,7 +226,7 @@ Please read the information below as a reference for how this class will be cond
 
 -   The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.
 -   In the data analysis project you are asked to develop a data analysis project from zero.
--   You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem.
+-   You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered (e.g., kernel methods, network clustering, graph analytics, semi-supervised learning, Gaussian processes, reinforcement learning, and big data analytic platforms) in the course to find answers to your research problem.
 
 </p>
 
