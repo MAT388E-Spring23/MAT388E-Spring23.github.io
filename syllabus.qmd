@@ -68,7 +68,7 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Introduction statistical learning, supervised, unsupervised learning. Exploratory data analysis.
+Week 1. Exploratory data analysis.
 
 Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Gradient descent algorithms.
 
@@ -226,7 +226,8 @@ Please read the information below as a reference for how this class will be cond
 
 -   The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.
 -   In the data analysis project you are asked to develop a data analysis project from zero.
--   You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered (e.g., kernel methods, network clustering, graph analytics, semi-supervised learning, Gaussian processes, reinforcement learning, and big data analytic platforms) in the course to find answers to your research problem.
+-   You need to find a data and define a research problem around this data. 
+-   Then, you have to apply the algorithms covered as well as the ones not covered (e.g., kernel methods, network clustering, graph analytics, semi-supervised learning, Gaussian processes, reinforcement learning, and big data analytic platforms) in the course to find answers to your research problem.
 
 </p>
 
