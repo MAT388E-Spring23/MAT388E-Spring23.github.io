@@ -82,21 +82,19 @@ Week 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-par
 
 Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept.
 
-Week 8. ITU Fall Break.
+Week 8. Multi-class classification. Naive Bayes. K-nearest neighbors.
 
-Week 9. Multi-class classification. Naive Bayes. K-nearest neighbors.
+Week 9. Linear discriminant analysis. Quadratic discriminant analysis. (Midterm Week)
 
-Week 10. Linear discriminant analysis. Quadratic discriminant analysis. (Midterm Week)
+Week 10. Tree based methods. Bagging, Random forests, and Boosting.
 
-Week 11. Tree based methods. Bagging, Random forests, and Boosting.
+Week 11. Unsupervised learning. Principal component analysis.
 
-Week 12. Unsupervised learning. Principal component analysis.
+Week 12. No class due to Labor and Solidarity Day.
 
-Week 13. No class due to Labor and Solidarity Day.
+Week 13. Clustering methods.
 
-Week 14. Clustering methods.
-
-Week 15. Final review and applications.
+Week 14. Final review and applications.
 
 ## Student Learning Outcomes
 
@@ -224,7 +222,7 @@ Please read the information below as a reference for how this class will be cond
 
 -   The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.
 -   In the data analysis project you are asked to develop a data analysis project from zero.
--   You need to find a data and define a research problem around this data. 
+-   You need to find a data and define a research problem around this data.
 -   Then, you have to apply the algorithms covered as well as the ones not covered (e.g., kernel methods, network clustering, graph analytics, semi-supervised learning, Gaussian processes, reinforcement learning, and big data analytic platforms) in the course to find answers to your research problem.
 
 </p>
