@@ -1,7 +1,7 @@
 ---
 title: "Week 01"
 author: "Gül İnan"
-date: "February 06, 2023"
+date: "February 20, 2023"
 comments:
   hypothesis: 
     theme: clean
@@ -16,6 +16,8 @@ format:
 
 ## Learning Objectives
 
-* Introduction to statistical learning.
+* Introduction to data related basic concepts.
 * Exploratory data analysis
+
+![](/images/hist.png)
 
