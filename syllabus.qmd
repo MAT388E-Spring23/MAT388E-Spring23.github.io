@@ -83,7 +83,7 @@ Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter t
 
 Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept. Multi-class classification. 
 
-Week 8. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors. 
+Week 8. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors.  
 Week 9. Tree based methods. Bagging, Random forests, and Boosting. 
 
 Week 10. (Midterm Week)
