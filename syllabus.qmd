@@ -70,27 +70,27 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 
 Week 1. Exploratory data analysis.
 
-Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Gradient descent algorithms.
+Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Models evaluation metrics for regression problems. 
 
-Week 3. Models evaluation metrics for regression problems. Multiple linear regression. Maximum likelihood estimation.
+Week 3. Multiple linear regression. Ordinary least squares estimation. Gradient descent algorithm.
 
-Week 4. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
+Week 4. Feature Engineering.
 
-Week 5. Regularization methods for regression problems. Ridge and lasso regression.
+Week 5. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
 
-Week 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
+Week 6. Regularization methods for regression problems. Ridge and lasso regression.
+Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
 
-Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept.
+Week 7. Introduction to classification. Logistic regression. Multi-class classification. Evaluation metrics for binary classification algorithms. Decision boundary concept.
 
-Week 8. Multi-class classification. Naive Bayes. K-nearest neighbors.
+Week 8. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors. 
+Week 9. Tree based methods. Bagging, Random forests, and Boosting. 
 
-Week 9. Linear discriminant analysis. Quadratic discriminant analysis. (Midterm Week)
+Week 10. (Midterm Week)
 
-Week 10. Tree based methods. Bagging, Random forests, and Boosting.
+Week 11. No class due to Labor and Solidarity Day.
 
-Week 11. Unsupervised learning. Principal component analysis.
-
-Week 12. No class due to Labor and Solidarity Day.
+Week 12. Unsupervised learning. Principal component analysis.
 
 Week 13. Clustering methods.
 
