@@ -81,7 +81,7 @@ Week 5. Polynomial regression. Bias-variance trade-off. Over-fitting and under-f
 Week 6. Regularization methods for regression problems. Ridge and lasso regression.
 Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
 
-Week 7. Introduction to classification. Logistic regression. Multi-class classification. Evaluation metrics for binary classification algorithms. Decision boundary concept.
+Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept. Multi-class classification. 
 
 Week 8. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors. 
 Week 9. Tree based methods. Bagging, Random forests, and Boosting. 
