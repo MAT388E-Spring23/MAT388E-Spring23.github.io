@@ -40,6 +40,7 @@ website:
       - section: "**Weekly Topics**"
         contents:
           - href: lectures/Week_01/index.qmd
+          - href: lectures/Week_02/index.qmd
           
           
           
