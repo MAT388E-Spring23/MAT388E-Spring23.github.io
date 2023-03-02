@@ -62,7 +62,7 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 ## Course Workload
 
-1 midterm exam, 2 homework, and 1 group-based project presentation along with a written-report (see details below).
+3 homework and 1 group-based project presentation along with a written-report (see details below).
 
 ## Course Tentative Plan
 
@@ -70,7 +70,7 @@ We will closely follow the weekly schedule given below. However, weekly class sc
 
 Week 1. Exploratory data analysis.
 
-Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Models evaluation metrics for regression problems. 
+Week 2. Introduction to simple linear regression. Basic optimization concepts used in regression analysis. Ordinary least squares estimation. Models evaluation metrics for regression problems.
 
 Week 3. Multiple linear regression. Ordinary least squares estimation. Gradient descent algorithm.
 
@@ -78,15 +78,14 @@ Week 4. Feature Engineering.
 
 Week 5. Polynomial regression. Bias-variance trade-off. Over-fitting and under-fitting.
 
-Week 6. Regularization methods for regression problems. Ridge and lasso regression.
-Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
+Week 6. Regularization methods for regression problems. Ridge and lasso regression. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning. Pipelines.
 
-Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept. Multi-class classification. 
+Week 7. Introduction to classification. Logistic regression. Evaluation metrics for binary classification algorithms. Decision boundary concept. Multi-class classification.
 
-Week 8. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors.  
-Week 9. Tree based methods. Bagging, Random forests, and Boosting. 
+Week 8. Linear discriminant analysis. Quadratic discriminant analysis. Naive Bayes. K-nearest neighbors.
+Week 9. Tree based methods. Bagging, Random forests, and Boosting.
 
-Week 10. (Midterm Week)
+Week 10. Remaining topics related to classification.
 
 Week 11. No class due to Labor and Solidarity Day.
 
@@ -200,9 +199,8 @@ Please read the information below as a reference for how this class will be cond
 
 | Assessment Method                  | Contribution to Final Grade |
 |:-----------------------------------|:----------------------------|
-| 2 Homework                         | Each 5%                     |
-| Midterm exam                       | 40%                         |
-| Data analysis project proposal     | 10%                         |
+| 3 Homework                         | Each 15%                    |
+| Data analysis project proposal     | 15%                         |
 | Data analysis project presentation | 20%                         |
 | Data analysis project report       | 20%                         |
 
