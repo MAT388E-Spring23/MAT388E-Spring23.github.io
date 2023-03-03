@@ -17,7 +17,7 @@ format:
 ## Learning Objectives
 
 * Multiple Linear Regression as Supervised Learning Problem.
-* Feature Selection
+* Feature Selection.
 * Multicollinearity problem.
 
 
