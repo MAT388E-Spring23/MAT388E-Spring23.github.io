@@ -100,9 +100,9 @@
   {
     "objectID": "lectures/Week_03/index.html",
     "href": "lectures/Week_03/index.html",
-    "title": "Week 02",
+    "title": "Week 03",
     "section": "",
-    "text": "Introduction to Statistical Learning.\nComponents of a Supervised Learning Problem.\nLinear Regression and Ordinary Least Squares Estimation"
+    "text": "Multiple Linear Regression as Supervised Learning Problem.\nFeature Selection\nMulticollinearity problem."
   },
   {
     "objectID": "lectures/Week_02/index.html",

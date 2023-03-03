@@ -1,7 +1,7 @@
 ---
-title: "Week 02"
+title: "Week 03"
 author: "Gül İnan"
-date: "February 27, 2023"
+date: "March 06, 2023"
 comments:
   hypothesis: 
     theme: clean
@@ -16,10 +16,10 @@ format:
 
 ## Learning Objectives
 
-* Introduction to Statistical Learning.
-* Components of a Supervised Learning Problem.
-* Linear Regression and Ordinary Least Squares Estimation
+* Multiple Linear Regression as Supervised Learning Problem.
+* Feature Selection
+* Multicollinearity problem.
 
 
-![](/images/surface.png)
+![](/images/heatmap.png)
 
