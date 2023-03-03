@@ -1,0 +1,25 @@
+---
+title: "Week 02"
+author: "Gül İnan"
+date: "February 27, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+* Introduction to Statistical Learning.
+* Components of a Supervised Learning Problem.
+* Linear Regression and Ordinary Least Squares Estimation
+
+
+![](/images/surface.png)
+
