@@ -1,0 +1,27 @@
+---
+title: "Week 04"
+author: "Gül İnan"
+date: "March 13, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+* Data pre-processing approaches
+  - Feature Scaling
+  - Imputation of Missing Values
+  - Encoding Categorical Features
+
+
+
+![](/images/miss.png)
+
