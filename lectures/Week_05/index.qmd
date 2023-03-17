@@ -1,0 +1,23 @@
+---
+title: "Week 05"
+author: "Gül İnan"
+date: "March 20, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+-   Polynomial Regression
+-   When a ML fails: Under-fitting, Over-fitting
+-   Bias-Variance Trade-off
+
+![](/images/under_over_fitting.png)
