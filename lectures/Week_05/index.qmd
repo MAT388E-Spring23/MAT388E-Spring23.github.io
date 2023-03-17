@@ -20,4 +20,4 @@ format:
 -   When a ML fails: Under-fitting, Over-fitting
 -   Bias-Variance Trade-off
 
-![](/images/under_over_fitting.png)
+![](/images/over_under_fitting.png)
