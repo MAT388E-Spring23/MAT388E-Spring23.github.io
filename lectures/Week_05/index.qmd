@@ -17,7 +17,7 @@ format:
 ## Learning Objectives
 
 -   Polynomial Regression
--   When a ML fails: Under-fitting, Over-fitting
+-   When a ML model fails: Under-fitting, Over-fitting
 -   Bias-Variance Trade-off
 
 ![](/images/over_under_fitting.png)
