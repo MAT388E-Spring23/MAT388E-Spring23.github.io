@@ -1,0 +1,23 @@
+---
+title: "Week 06"
+author: "Gül İnan"
+date: "March 27, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+-   K-Fold Cross-Validation
+-   Train-Validation-Test Approach
+-   Regularization and Ridge Regression
+
+![](/images/ridge.png)

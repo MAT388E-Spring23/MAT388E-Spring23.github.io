@@ -126,6 +126,13 @@
     "text": "Polynomial Regression\nWhen a ML model fails: Under-fitting, Over-fitting\nBias-Variance Trade-off"
   },
   {
+    "objectID": "lectures/Week_06/index.html",
+    "href": "lectures/Week_06/index.html",
+    "title": "Week 06",
+    "section": "",
+    "text": "K-Fold Cross-Validation\nTrain-Validation-Test Approach\nRegularization and Ridge Regression"
+  },
+  {
     "objectID": "lectures/Week_01/index.html",
     "href": "lectures/Week_01/index.html",
     "title": "Week 01",
