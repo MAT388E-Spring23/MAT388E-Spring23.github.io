@@ -16,8 +16,8 @@ format:
 
 ## Learning Objectives
 
--   K-Fold Cross-Validation
 -   Train-Validation-Test Approach
+-   K-Fold Cross-Validation
 -   Regularization and Ridge Regression
 
 ![](/images/ridge.png)
