@@ -16,8 +16,8 @@ format:
 
 ## Learning Objectives
 
--  Ridge Regression and Lasso Regression
--  Hyper-parameter tuning
+-  Ridge and Lasso Regression
+-  Hyper-parameter Tuning
 -  Introduction to Classification
 -  K-Nearest Neighbors Algorithm
 
