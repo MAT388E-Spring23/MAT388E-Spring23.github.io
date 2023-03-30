@@ -1,0 +1,24 @@
+---
+title: "Week 07"
+author: "Gül İnan"
+date: "April 03, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+-  Ridge Regression and Lasso Regression
+-  Hyper-parameter tuning
+-  Introduction to Classification
+-  K-Nearest Neighbors Algorithm
+
+![](/images/knn.png)
