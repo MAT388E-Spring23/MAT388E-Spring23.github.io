@@ -1,0 +1,23 @@
+---
+title: "Week 08"
+author: "Gül İnan"
+date: "April 10, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+-  Logistic Regression
+-  Penalized Logistic Regression
+-  Metrics for Binary Classification
+
+![](/images/db.png)
