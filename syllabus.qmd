@@ -203,16 +203,6 @@ Please read the information below as a reference for how this class will be cond
 | Data analysis project presentation | 20%                         |
 | Data analysis project report       | 20%                         |
 
-## Midterm date and coverage
-
-<p align="justify">
-
--   The midterm will be on `TBA`.
--   The midterm topics will cover whatever we have covered up to that week.
--   The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.
-
-<p>
-
 ## Data analysis project presentation (along with report submission) date and coverage
 
 <p align="justify">
