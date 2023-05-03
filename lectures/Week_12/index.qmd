@@ -16,6 +16,7 @@ format:
 
 ## Learning Objectives
 
+-  Over-fitting in Decision Trees
 -  Hyper-parameter tuning in Decision Trees
 -  Bagging
 -  Random Forests
