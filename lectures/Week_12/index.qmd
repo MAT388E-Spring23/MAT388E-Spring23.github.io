@@ -1,7 +1,7 @@
 ---
-title: "Week 10"
+title: "Week 12"
 author: "Gül İnan"
-date: "April 24, 2023"
+date: "May 8, 2023"
 comments:
   hypothesis: 
     theme: clean
@@ -16,8 +16,9 @@ format:
 
 ## Learning Objectives
 
--  Multinomial Regression
--  Introduction to Decision Trees
+-  Hyper-parameter tuning in Decision Trees
+-  Bagging
+-  Random Forests
 
 
-![](/images/tree2.png)
+![](/images/fimp.png)
