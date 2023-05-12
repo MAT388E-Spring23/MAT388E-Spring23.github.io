@@ -1,0 +1,24 @@
+---
+title: "Week 13"
+author: "Gül İnan"
+date: "May 15, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives 
+
+-  Introduction to unsupervised learning
+-  Principal component analysis
+
+
+
+![](/images/biplot.png)
