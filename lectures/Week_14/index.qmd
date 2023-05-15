@@ -1,0 +1,22 @@
+---
+title: "Week 14"
+author: "Gül İnan"
+date: "May 22, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives 
+
+-  Introduction to Clustering
+
+
+![](/images/sil.png)
