@@ -17,6 +17,7 @@ format:
 ## Learning Objectives 
 
 -  Introduction to Clustering
+-  K-means clustering
 
 
 ![](/images/sil.png)
