@@ -21,3 +21,7 @@ format:
 
 
 ![](/images/sil.png)
+
+-  Hierarchical clustering
+
+![](/images/hc.png)
